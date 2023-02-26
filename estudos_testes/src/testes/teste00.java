@@ -1,5 +1,5 @@
 package testes;
-public class teste01 {
+public class teste00 {
 	
     public static void main (String[] args) {
      
@@ -21,6 +21,7 @@ public class teste01 {
        
     //Conversão Camel Case
        String variavelTesteAula = "Yuskey";
+       System.out.println(variavelTesteAula);
        
        double casasDecimais = 2.512345;
        System.out.println(casasDecimais);
