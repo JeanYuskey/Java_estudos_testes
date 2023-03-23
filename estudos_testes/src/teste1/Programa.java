@@ -1,4 +1,4 @@
-package exemplo_lpoo_aplicacao;
+package teste1;
 
 import java.util.Scanner;
 

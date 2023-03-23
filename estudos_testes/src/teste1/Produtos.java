@@ -1,4 +1,4 @@
-package exemplo_lpoo_aplicacao;
+package teste1;
 
 //produto(String), quantidade(double) e preço(double)
 //Vamos criar variáveis públicas = todas as informações serão utilizadas na classe main, a classe Programa

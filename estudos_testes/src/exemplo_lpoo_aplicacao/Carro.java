@@ -44,3 +44,10 @@ public class Carro { // Essa classe é apenas usada como modelo para criar os ob
 		System.out.println("Vruuuummmmmmmmmm");
 	}
 }
+//Base: Aula de Java_Polimorfismo
+//Resumo: Dentro do nosso pacote exemplo_lpoo_aplicacao, temos:
+//uma super classe Carro q têm 2 atributos (ano e cor) e 3 métodos (ligar, desligar e acelerar)
+//Criamos um objeto chamado fusca através da classe Carro e nela utilizamos os 3 métodos
+
+//E tbm, criamos uma outra classe chamada Aviao, em que ela estende a classe Carro, ou seja, a Herança
+//Nesta classe Aviao, criei um outro atributo (envergadura) e um outro método (aterrizar)
