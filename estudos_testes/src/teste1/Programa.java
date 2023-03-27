@@ -29,7 +29,7 @@ public class Programa {
 		System.out.println("Atualização: "+produto.produto+", Estoque atual: "+produto.quantidade+" Preço: "+produto.preco);
 		
 		System.out.println("Foi realizada alguma venda no período? ");
-		estoque = teclado.nextInt(); //ñ posso ter a msm variável indicado nas programções, portanto deve tirar o "Int", assim ele já indicará que es trata da msm variável, oq adiciona no estoque e oq remove do estoque
+		estoque = teclado.nextInt(); //ñ posso ter a msm variável indicado nas programações, portanto deve tirar o "Int", assim ele já indicará que es trata da msm variável, oq adiciona no estoque e oq remove do estoque
 		produto.subProdutos(estoque);
 		System.out.println("Atualização após vendas: "+produto.produto+", Estoque atual: "+produto.quantidade+" Preço: "+produto.preco+" Valor atual do estoque: R$ "+produto.quantidade*produto.preco);
 		
